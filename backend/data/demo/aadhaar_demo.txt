@@ -1,0 +1,27 @@
+DEMO KNOWLEDGE BASE
+Category: Aadhaar
+
+Section: Lost Aadhaar Card Procedure
+Page: Demo Page 1
+
+If an Aadhaar card is lost, the citizen can use the available Aadhaar retrieval service to retrieve their Aadhaar number or Enrolment ID. The citizen should provide the required identity details and complete OTP verification.
+
+Section: E-Aadhaar Download Procedure
+Page: Demo Page 2
+
+E-Aadhaar can be downloaded through the available Aadhaar online service after entering the required Aadhaar or enrolment details and completing identity verification.
+
+Section: Address Update Procedure
+Page: Demo Page 3
+
+A citizen can request an Aadhaar address update through the available Aadhaar update service by providing the required address information and supporting address proof and completing the required verification.
+
+Section: Aadhaar Update Documents
+Page: Demo Page 4
+
+For Aadhaar updates, the supporting documents depend on the type of update. For an address update, an accepted address proof may be required.
+
+Section: E-Aadhaar Information
+Page: Demo Page 5
+
+E-Aadhaar is the electronic version of Aadhaar. It is a digitally signed electronic Aadhaar document that can be used as a digital representation of Aadhaar.

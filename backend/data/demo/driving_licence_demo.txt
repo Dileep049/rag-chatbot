@@ -1,0 +1,9 @@
+DEMO KNOWLEDGE BASE
+Category: Driving Licence
+
+Section: Driving Licence Application Procedure
+Page: Demo Page 1
+
+A driving licence applicant needs to follow the applicable learner licence and driving licence application process, complete the required application and verification steps, and complete the required driving test where applicable.
+
+The exact current procedure should be verified with the relevant transport authority.

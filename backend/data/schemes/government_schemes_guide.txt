@@ -1,0 +1,47 @@
+# Flagship Government Schemes: PM-Kisan, Ayushman Bharat & Eligibility Guidelines
+Document Title: Official Guidelines on Major Central & State Citizen Welfare Schemes
+Category: Government Schemes
+Authority: Ministry of Agriculture & Ministry of Health and Family Welfare
+
+## Section 1: Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)
+PM-KISAN is a Central Sector Scheme that provides income support to landholding farmer families across India.
+
+### Benefits:
+* Financial benefit of Rs. 6,000 per year transferred directly in three equal quarterly installments of Rs. 2,000 each into Aadhaar-seeded bank accounts.
+
+### Eligibility Criteria:
+1. Small and marginal landholder farmer families owning cultivable land up to 2 hectares in their name.
+2. Mandatory e-KYC verification using Aadhaar OTP or biometric authentication at CSC centers.
+
+### Exclusions:
+* Institutional landholders, serving/retired government employees, income tax payers in last assessment year, doctors, engineers, lawyers, and monthly pensioners drawing Rs. 10,000 or more.
+
+### Required Documents:
+* Cultivable Land Holding Ownership Record (Khasra / Khatauni / Jamabandi).
+* Aadhaar Card.
+* Active Bank Account Passbook (Aadhaar Seeded).
+* Mobile Number.
+
+### How to Apply:
+1. Self-registration on PM-KISAN portal (pmkisan.gov.in) under "Farmers Corner" -> "New Farmer Registration".
+2. Enter Aadhaar number, state, district, land registration ID, and bank details.
+3. Applications are verified by State Nodal Officers before sanction.
+
+## Section 2: Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)
+PM-JAY is the world's largest health insurance scheme fully financed by the government.
+
+### Benefits:
+* Health coverage of Rs. 5 Lakh per family per year for secondary and tertiary care hospitalization across empanelled public and private hospitals.
+* Covers pre-hospitalization (3 days) and post-hospitalization (15 days) expenses including diagnostic tests and medicines.
+* No restriction on family size, age, or gender.
+
+### Eligibility:
+* Families identified based on SECC 2011 (Social Economic Caste Census) criteria in rural and urban areas.
+* Senior Citizens aged 70 years and above (Ayushman Vaya Vandana Card) regardless of income.
+
+### How to Apply & Download Ayushman Card:
+1. Visit beneficiary.nha.gov.in or download Ayushman App.
+2. Enter Mobile Number and receive OTP.
+3. Search by Scheme Name (PMJAY), State, District, and Aadhaar Number or Family ID / Ration Card Number.
+4. Complete e-KYC via Aadhaar OTP or Face Authentication.
+5. Download instant Ayushman Card PDF. Present card at hospital Helpdesk (Ayushman Mitra) for cashless treatment.

@@ -1,0 +1,37 @@
+# Police Complaint, FIR Procedures and Citizen Rights Handbook
+Document Title: Official Guidelines on Filing Police Complaints, FIR, and Legal Rights
+Category: Police Services
+Authority: Ministry of Home Affairs & Bureau of Police Research & Development
+
+## Section 1: Standard Procedure for Filing a Police Complaint
+A police complaint can be filed by any citizen who has information about a crime or who has been a victim of a crime.
+
+### How to File a Written Complaint:
+1. Write a formal complaint addressed to the Station House Officer (SHO) of the local police station having jurisdiction over the area where the incident occurred.
+2. Clearly mention:
+   * Date, time, and exact location of the incident.
+   * Detailed facts of the incident.
+   * Names or descriptions of accused persons or witnesses (if known).
+   * Contact details and address of the complainant.
+3. Submit two copies of the written complaint at the police station.
+4. Obtain an official STAMPED ACKNOWLEDGMENT / Receipt on the duplicate copy from the Duty Officer.
+5. If police refuse to take your complaint, you can send the complaint by Registered Post / Speed Post to the District Superintendent of Police (SP) / Commissioner of Police or file an online complaint via state police citizen portals / CCTNS portal.
+
+## Section 2: First Information Report (FIR) Procedure (Section 154 CrPC / BNSS Section 173)
+An FIR is a written document prepared by police after receiving information about the commission of a COGNIZABLE OFFENCE (e.g., theft, robbery, assault, fraud, kidnapping).
+
+### Key Rules Regarding FIR:
+1. **Right to Free Copy**: Under law, the informant/complainant is entitled to receive a COPY of the FIR FREE OF COST immediately after it is registered.
+2. **Reading Before Signing**: Before signing the FIR, read it carefully (or ask the officer to read it out to you) to verify that your statement has been recorded accurately.
+3. **Zero FIR Concept**: If a crime occurs outside the territorial jurisdiction of a police station, the station MUST still register a "Zero FIR" immediately and transfer it to the concerned police station. Police cannot refuse to register an FIR on grounds of lack of territorial jurisdiction.
+4. **Cognizable vs Non-Cognizable Offence**: For cognizable offences, police can register an FIR and investigate without prior permission of a court. For non-cognizable offences (minor disputes), police enter details in the Non-Cognizable Report (NCR) diary and require a Magistrate order to investigate.
+
+## Section 3: Remedial Measures If Police Refuse to Register an FIR
+If the Station House Officer (SHO) refuses to register an FIR for a cognizable offence:
+
+1. **Approach Higher Police Officers**: Submit a written complaint directly to the Superintendent of Police (SP) or Deputy Commissioner of Police (DCP) under Section 154(3) CrPC / BNSS 173(4).
+2. **Judicial Remedy**: File an application before the Judicial Magistrate / Metropolitan Magistrate under Section 156(3) CrPC / BNSS Section 175, seeking directions to police to register an FIR and conduct investigation.
+3. **National Human Rights Commission (NHRC) / State Portal**: Lodge a grievance on the National Crime Records Bureau (NCRB) portal or CCTNS web portal.
+
+## Section 4: Legal Disclaimer and Citizen Notice
+This guide provides general informational knowledge regarding police procedure. Citizens are advised to seek official legal representation or consult the concerned District Legal Services Authority (DLSA) for specific ongoing criminal litigation or court proceedings.

@@ -1,0 +1,52 @@
+# Aadhaar Card Official Procedures and Guidelines
+Document Title: UIDAI Official Guidance on Lost Aadhaar, Download & Corrections
+Category: Aadhaar Services
+Authority: Unique Identification Authority of India (UIDAI)
+
+## Section 1: Procedure for Lost Aadhaar Card
+If a citizen loses their Aadhaar card, they can retrieve it using their Aadhaar number (UID) or Enrolment ID (EID).
+
+### Steps to Retrieve Lost Aadhaar Online:
+1. Visit the official UIDAI portal (myAadhaar at myaadhaar.uidai.gov.in).
+2. Click on the "Retrieve EID / Aadhaar number" service option.
+3. Select whether you want to retrieve your 12-digit Aadhaar Number (UID) or 28-digit Enrolment ID (EID).
+4. Enter your full name as printed on your Aadhaar card and registered Mobile Number or registered Email ID.
+5. Click "Send OTP". Enter the 6-digit OTP received on your registered mobile number.
+6. Upon successful verification, your Aadhaar number or EID will be sent directly to your registered mobile number via SMS.
+
+## Section 2: How to Download E-Aadhaar Online
+E-Aadhaar is a legally valid, digitally signed electronic document equivalent to the physical Aadhaar card under Section 4(3) of the Aadhaar Act 2016.
+
+### Steps to Download E-Aadhaar:
+1. Go to myaadhaar.uidai.gov.in and click "Download Aadhaar".
+2. Select your ID type: Aadhaar Number (12 digits), Enrolment ID (28 digits), or Virtual ID (VID, 16 digits).
+3. Enter the ID details and security captcha.
+4. Click "Send OTP" and enter the OTP received on your mobile.
+5. You can choose a "Masked Aadhaar" if you wish to hide the first 8 digits of your Aadhaar number for privacy.
+6. Click "Verify & Download". The downloaded file is a password-protected PDF.
+7. The password to open your e-Aadhaar PDF consists of the FIRST 4 LETTERS of your name in CAPITAL letters followed by your YEAR OF BIRTH (YYYY). Example: If name is ANISH KUMAR and birth year is 1989, password is `ANIS1989`.
+
+## Section 3: Ordering a Physical Aadhaar PVC Card
+Citizens who prefer a physical card can order a durable Aadhaar PVC card online.
+
+### Process for Aadhaar PVC Card:
+1. Visit myaadhaar.uidai.gov.in and click "Order Aadhaar PVC Card".
+2. Enter your 12-digit Aadhaar number or 28-digit Enrolment ID.
+3. If your mobile number is not registered, check "My Mobile number is not registered" and enter any non-registered mobile number to receive OTP.
+4. Pay a nominal fee of Rs. 50 (inclusive of GST and Speed Post delivery charges).
+5. Note down the Service Request Number (SRN) to track the dispatch status.
+6. The PVC Aadhaar card will be delivered to your registered address via Speed Post within 5-7 working days.
+
+## Section 4: Aadhaar Update and Demographic Correction Procedure
+If there are errors in your Aadhaar details (Name, Address, Date of Birth, Gender, or Mobile Number):
+
+### Online Update (Address Only):
+1. Citizens can update their address online by uploading valid address proof (Electricity bill, Passport, Bank Statement, Water Bill, etc.).
+2. Visit myaadhaar.uidai.gov.in, log in using Aadhaar + OTP, and select "Update Address".
+3. Upload scanned copy of proof document and pay Rs. 50 fee.
+
+### Offline Update (Biometrics, Name, DOB, Mobile Number):
+1. For biometric updates (Fingerprints, Iris, Photograph) or changes to Name, Date of Birth, Gender, and Mobile Number, you MUST visit a nearest Aadhaar Seva Kendra (ASK) or authorized bank/post office enrolment center.
+2. Fill out the Aadhaar Enrolment/Correction Form.
+3. Provide original supporting documents for verification (e.g., PAN card/Passport for Name proof, Birth Certificate for DOB proof).
+4. No documents are required for Mobile Number or Email update; biometric authentication is required.

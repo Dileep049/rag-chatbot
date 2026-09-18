@@ -1,0 +1,41 @@
+# Driving Licence Services: Duplicate DL, Renewal & Lost DL Procedure
+Document Title: Parivahan Sewa Official Guidelines on Driving Licence Services
+Category: Driving Licence
+Authority: Ministry of Road Transport and Highways (MoRTH) & State RTOs
+
+## Section 1: Lost Driving Licence (DL) - Procedure for Duplicate DL
+If your Driving Licence is lost, stolen, torn, or destroyed, you can apply for a duplicate DL without re-taking the driving test.
+
+### Step-by-Step Procedure for Duplicate DL:
+1. **File Police Report / Lost Article Report**:
+   * File an online Lost Article Report / LLD entry on the State Police portal.
+   * Obtain the Police Lost Report Receipt / FIR copy mentioning the lost DL number.
+2. **Apply Online via Parivahan Portal**:
+   * Visit the official Parivahan Sewa portal (parivahan.gov.in).
+   * Go to "Online Services" -> "Driving Licence Related Services".
+   * Select your State.
+   * Click "Apply for Duplicate DL".
+   * Enter Driving Licence Number and Date of Birth.
+3. **Fill Application Form 2 (LLD)**:
+   * System auto-populates your DL details.
+   * Select reason: "Lost/Stolen" or "Destroyed/Mutilated".
+4. **Upload Required Documents**:
+   * Copy of Police Lost Report / FIR (Mandatory for lost DL).
+   * Original Mutilated/Damaged DL (if damaged).
+   * Proof of Address (Aadhaar Card / Voter ID / Passport / Utility Bill).
+   * Medical Certificate in Form 1-A (for commercial licence or applicants aged over 40 years).
+5. **Fee Payment & Slot Booking**:
+   * Pay the duplicate DL fee (approx. Rs. 200 to Rs. 400 depending on state fee rules).
+   * Book an RTO appointment slot if biometric verification/document verification is required in your state.
+6. **RTO Verification & Issue**:
+   * Visit RTO on slot date with original document proofs (if required).
+   * Once approved by RTO authority, duplicate Smart Card Driving Licence will be printed and posted to your address via Speed Post.
+
+## Section 2: Renewal of Driving Licence
+A non-transport Driving Licence is valid for 20 years from date of issue or until the holder attains 40 years of age (whichever is earlier). After 40, DL is renewed every 5 years.
+
+### Rules for DL Renewal:
+1. Apply for renewal within 1 year before or up to 1 year after expiry without penalty.
+2. If applied after 1 year of expiry, a driving test re-examination may be required.
+3. Form 1-A Medical Certificate certified by a registered medical practitioner is mandatory for applicants over 40 years of age.
+4. Process: Apply online on Parivahan Sewa -> Upload expired DL & Medical Certificate -> Pay Renewal Fee -> Receive renewed DL.

@@ -1,0 +1,50 @@
+# Motor Vehicle Seizure, Impoundment & Court Release Procedure
+Document Title: Official Rules on Seizure of Motor Vehicles & Procedure for Release
+Category: Vehicle Services
+Authority: Ministry of Road Transport and Highways (MoRTH) & Traffic Police Guidelines
+
+## Section 1: Grounds for Vehicle Seizure / Impoundment
+Under Section 207 of the Motor Vehicles Act 1988, Traffic Police or Regional Transport Office (RTO) officers are authorized to seize/impound a motor vehicle under specific circumstances:
+
+### Common Reasons for Vehicle Seizure:
+1. Driving without a valid Driving Licence (DL) or Registration Certificate (RC).
+2. Driving without valid third-party Motor Insurance.
+3. Driving an unregistered vehicle or displaying forged/fake registration number plates.
+4. Driving under the influence of alcohol or intoxicating drugs (Drunk Driving - Section 185 MV Act).
+5. Carrying excess load / commercial transport without valid permit or fitness certificate.
+6. Using vehicle in commission of a crime or involved in a serious road accident.
+
+## Section 2: Procedure for Getting Seized / Impounded Vehicle Released
+If your vehicle (bike, car, or commercial vehicle) has been seized by traffic police or RTO officers, follow these mandatory steps:
+
+### Step 1: Obtain Seizure Memo / Impound Receipt (Challan)
+* At the time of seizure, the officer must issue an official **Seizure Memo / Vehicle Impoundment Receipt**.
+* Ensure the receipt lists vehicle details (Registration No., Make, Model), reason for seizure, inventory of items inside the vehicle, and location of the police yard / RTO storage compound.
+
+### Step 2: Payment of Traffic Fine / Compound Fee (If Compoundable)
+* If seized for minor compoundable traffic violations (e.g., helmet violation, expired insurance, missing permit), visit the concerned Traffic Police Line or RTO office.
+* Submit required valid documents (Updated Insurance, Pollution Under Control Certificate (PUCC), valid DL, RC).
+* Pay the prescribed compounding penalty.
+* Upon payment, the officer issues a Release Order to collect the vehicle from the impound yard.
+
+### Step 3: Application to Traffic Court / Judicial Magistrate (If Non-Compoundable or Seized under Section 207)
+If the offense is non-compoundable or seized under Court Orders / Serious MV Act violations:
+1. File a formal application for **Superdari / Release of Vehicle** under Section 451/457 of CrPC before the concerned Judicial Magistrate / Traffic Court having jurisdiction.
+2. Documents to attach with court application:
+   * Original Registration Certificate (RC) & self-attested copy.
+   * Original Driving Licence (DL).
+   * Valid Insurance Policy Copy & PUCC.
+   * Copy of Seizure Memo / FIR.
+   * Identity proof & Address proof of the registered owner.
+3. The court orders police to verify ownership and submit a report.
+4. Upon satisfaction, the court issues an Order directing police/RTO to release the vehicle on executing an Indemnity Bond / Superdginama.
+5. Take the certified copy of Court Release Order to the police station / impound yard and collect your vehicle.
+
+## Section 3: Essential Checklist of Documents for Vehicle Release
+* Registration Certificate (RC) (Original + Copy)
+* Driving Licence (DL) of owner/driver
+* Valid Motor Insurance Policy
+* Valid Pollution Under Control Certificate (PUCC)
+* Seizure Receipt / Traffic Challan Copy
+* Identity Proof (Aadhaar Card / Voter ID / PAN Card)
+* Court Release Order & Superdginama (if applicable)

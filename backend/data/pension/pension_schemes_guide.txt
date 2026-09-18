@@ -1,0 +1,48 @@
+# National Pension Schemes & Senior Citizen Assistance Guidelines
+Document Title: Official Handbook on Pension Schemes, Eligibility & Application Procedures
+Category: Pension Services
+Authority: Ministry of Social Justice and Empowerment & Department of Pensions
+
+## Section 1: Indira Gandhi National Old Age Pension Scheme (IGNOAPS)
+The Indira Gandhi National Old Age Pension Scheme provides monthly financial assistance to senior citizens belonging to Below Poverty Line (BPL) households.
+
+### Eligibility Criteria:
+1. The applicant must be a citizen of India.
+2. Age: 60 years or above.
+3. Financial status: Must belong to a household identified as Below Poverty Line (BPL) as per central government guidelines.
+
+### Benefit Amount:
+* For beneficiaries aged 60 to 79 years: Rs. 200 to Rs. 500 per month (Central + State share combined).
+* For beneficiaries aged 80 years and above: Rs. 500 to Rs. 1000 per month depending on state implementation.
+
+## Section 2: Required Documents for Pension Application
+To apply for an Old Age Pension, Disability Pension, or Widow Pension, the following documents are mandatory:
+
+1. **Proof of Age**: Birth Certificate, School Leaving Certificate, PAN Card, Voter ID, or Medical Officer Certificate confirming age.
+2. **Proof of Residence / Address**: Aadhaar Card, Ration Card, Voter ID, or Utility Bill.
+3. **Income / BPL Certificate**: BPL Ration Card, Income Certificate issued by Tehsildar or competent Revenue Officer.
+4. **Bank Account Details**: Copy of active Bank Passbook (Aadhaar-seeded bank account for DBT direct benefit transfer).
+5. **Passport Size Photographs**: 2 recent passport-size photographs of the applicant.
+6. **Disability Certificate** (Only for Disability Pension): Certificate showing minimum 40% disability certified by a government medical board.
+7. **Death Certificate of Husband** (Only for Widow Pension): Official death certificate issued by Registrar of Births & Deaths.
+
+## Section 3: Step-by-Step Pension Application Procedure
+Citizens can apply either online through state social welfare portals or offline via local administrative offices.
+
+### Offline Application Method:
+1. Visit the local Gram Panchayat office (in rural areas) or Block Development Office (BDO) / District Social Welfare Office (DSWO) (in urban areas).
+2. Obtain the prescribed Pension Application Form free of cost or download it from the state welfare portal.
+3. Fill in applicant personal details, address, BPL card number, and bank account number carefully.
+4. Attach self-attested photocopies of all required documents (Aadhaar, BPL card, Bank Passbook, Age proof).
+5. Submit the application form to the Social Welfare Officer / BDO office. Obtain an acknowledgment receipt.
+6. The application undergoes physical verification by the Revenue Inspector/Patwari within 30 to 45 working days.
+7. Upon sanction, pension money is credited directly into the applicant's bank account via Aadhaar Enabled Payment System (AEPS) or Direct Benefit Transfer (DBT).
+
+## Section 4: National Pension System (NPS) for General Citizens
+NPS is a voluntary, defined contribution retirement savings scheme open to all Indian citizens aged 18 to 70 years.
+
+### How to Apply for NPS:
+1. Citizens can open an NPS account online via eNPS portal (enps.nsdl.com) using Aadhaar or PAN.
+2. Select Point of Presence (POP) bank.
+3. Submit KYC verification documents online.
+4. Obtain a 12-digit Permanent Retirement Account Number (PRAN).

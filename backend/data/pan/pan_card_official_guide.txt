@@ -1,0 +1,39 @@
+# PAN Card Issuance, Duplicate PAN & Correction Rules
+Document Title: Official Income Tax Department Guidelines on PAN Services
+Category: PAN Services
+Authority: Income Tax Department, Government of India & NSDL/UTIITSL
+
+## Section 1: Procedure for Lost PAN Card / Duplicate PAN Application
+If a taxpayer loses their physical PAN card or it gets damaged/stolen, they can apply for a duplicate PAN card with the SAME PAN number.
+
+### How to Apply for Duplicate PAN Card Online:
+1. Visit the official NSDL (Protean) e-Gov portal (onlineservices.tin.egovnsdl.com) or UTIITSL portal (pan.utiitsl.com).
+2. Select Application Type: **"Changes or Correction in existing PAN Data / Reprint of PAN Card (No changes in existing PAN data)"**.
+3. Fill in basic personal details: Name, Date of Birth, Email ID, Mobile Number, and existing 10-digit PAN Number.
+4. Complete e-KYC using Aadhaar OTP authentication.
+5. Upload supporting documents:
+   * Proof of Identity (Aadhaar / Voter ID / Passport)
+   * Proof of Address (Aadhaar / Utility Bill)
+   * Proof of PAN (Copy of old PAN card or PAN Allotment Letter; FIR copy if lost)
+6. Pay prescribed fee: Rs. 50 for dispatch within India, or Rs. 959 for international delivery.
+7. Submit application. A 15-digit Acknowledgement Number is generated to track status.
+8. Physical duplicate PAN card will be delivered to registered address within 10-15 business days.
+
+## Section 2: How to Download Instant e-PAN Card
+Citizens needing urgent PAN verification can download digital e-PAN (legally valid under IT rules).
+
+### Steps for Instant e-PAN Download:
+1. Visit the Income Tax e-Filing portal (incometax.gov.in).
+2. Go to "Instant e-PAN" section.
+3. Click "Check Status / Download PAN".
+4. Enter 12-digit Aadhaar number and captcha.
+5. Enter OTP received on Aadhaar-linked mobile number.
+6. View and Download e-PAN PDF instantly free of cost.
+7. Password to open e-PAN PDF is Date of Birth in DDMMYYYY format (e.g. 05081995 for 5th August 1995).
+
+## Section 3: PAN Card Correction and Data Update
+To correct spelling errors in Name, Father's Name, or update Date of Birth / Address:
+1. Fill "Request for New PAN Card Or/And Changes Or Correction in PAN Data" form online.
+2. Select checkboxes next to fields requiring modification.
+3. Upload supporting valid proof (e.g., Gazette Notification for name change, Marriage Certificate, Passport, Birth Certificate).
+4. Authenticate via Aadhaar e-Sign or physically post signed acknowledgement form to NSDL/UTIITSL Pune/Mumbai office.
