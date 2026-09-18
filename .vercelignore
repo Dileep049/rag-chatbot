@@ -1,0 +1,8 @@
+# Ignore backend and ML data for Vercel frontend deployments
+backend/
+backend/venv/
+backend/chroma_db/
+backend/data/
+docs/
+*.pdf
+*.log
