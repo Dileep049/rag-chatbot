@@ -10,8 +10,11 @@ const INITIAL_HISTORY = [
   { id: '6', text: "PAN card correction procedure..." }
 ];
 
-export default function Sidebar({ onSelectHistoryItem, onClearChat }) {
-  const [historyList, setHistoryList] = useState(INITIAL_HISTORY);
+export default function Sidebar({ chatHistory, setChatHistory, onSelectHistoryItem, onClearChat }) {
+  const [localHistory, setLocalHistory] = useState(INITIAL_HISTORY);
+  const historyList = chatHistory !== undefined ? chatHistory : localHistory;
+  const setHistoryList = setChatHistory || setLocalHistory;
+
   const [activeMenuId, setActiveMenuId] = useState(null);
   const menuRef = useRef(null);
 
@@ -61,12 +64,15 @@ export default function Sidebar({ onSelectHistoryItem, onClearChat }) {
           historyList.map((item) => (
             <div key={item.id} className="relative group">
               <button
-                onClick={() => onSelectHistoryItem && onSelectHistoryItem(item.text.replace('...', ''))}
+                onClick={() => {
+                  const displayText = item.title || item.text || '';
+                  if (onSelectHistoryItem) onSelectHistoryItem(displayText.replace('...', ''));
+                }}
                 className="w-full flex items-center justify-between px-3 py-2.5 rounded-xl text-left text-xs sm:text-sm text-slate-300 hover:text-white hover:bg-slate-800/60 border border-transparent hover:border-slate-700/50 transition-all duration-150 pr-8"
               >
                 <div className="flex items-center space-x-2.5 min-w-0 flex-1">
                   <MessageSquare className="w-4 h-4 text-slate-500 group-hover:text-indigo-400 shrink-0 transition" />
-                  <span className="truncate">{item.text}</span>
+                  <span className="truncate">{item.title || item.text}</span>
                 </div>
               </button>
 

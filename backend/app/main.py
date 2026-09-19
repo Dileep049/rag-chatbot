@@ -26,6 +26,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=CORS_ORIGINS if CORS_ORIGINS else ["*"],
+    allow_origin_regex=r"https?://(localhost|127\.0\.0\.1)(:\d+)?",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -37,6 +38,9 @@ rate_limit_records = defaultdict(list)
 @app.middleware("http")
 async def security_and_rate_limit_middleware(request: Request, call_next):
     """Enforces Security HTTP Headers and Configurable Rate Limiting."""
+    if request.method == "OPTIONS":
+        return await call_next(request)
+
     client_ip = request.client.host if request.client else "127.0.0.1"
     now = time.time()
 

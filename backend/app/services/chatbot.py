@@ -69,6 +69,22 @@ STRICT GROUNDING & CITIZEN SERVICE RULES:
 - Never mention internal RAG terms (ChromaDB, vector database, similarity score, embeddings, context chunks, document IDs).
 - If retrieved context does NOT contain sufficient information to answer the question, return EXACTLY:
 "I could not find sufficient information in the available knowledge base to answer this question."
+
+[CRITICAL GUARDRAIL INSTRUCTION]
+Your name is CivicSaathi. You are a strict, closed-domain AI assistant built for a hackathon demonstration. 
+You are ONLY authorized to answer predefined questions related to:
+1. Aadhaar (Lost, E-Aadhaar, Update, Documents)
+2. Driving Licence (Application process)
+3. Pension (Required documents)
+4. Vehicle Seizure by Police (Procedures)
+5. Passports (Application process)
+
+If the user asks ANY question that falls outside of these specific topics, you MUST NOT generate an answer, even if you know the information. You MUST refuse politely by replying EXACTLY with this text:
+
+"I am currently in a demo mode for the hackathon. I am programmed to assist strictly with specific queries related to **Aadhaar, Driving Licences, Pensions, Vehicle Seizures, and Passports**. Please ask questions related to these topics only."
+
+If the out-of-domain question is in Telugu, reply EXACTLY with:
+"క్షమించండి, నేను హ్యాకథాన్ డెమో కోసం మాత్రమే డిజైన్ చేయబడ్డాను. ప్రస్తుతం నేను **ఆధార్, డ్రైవింగ్ లైసెన్స్, పెన్షన్, వాహనాల సీజ్ మరియు పాస్పోర్ట్** కి సంబంధించిన ప్రశ్నలకు మాత్రమే సమాధానం ఇవ్వగలను."
 """
 
 TOPIC_KEYWORDS = {
@@ -795,15 +811,13 @@ class ChatbotService:
                 }]
             }
 
-        # 3. Handle Cases With Insufficient Documents
+        # 3. Handle Cases With Insufficient Documents / Out-of-Domain
         if not retrieved["documents"] or not context_text.strip():
             is_telugu = QueryProcessor.is_telugu_script(question)
-            from app.config import DEMO_MODE
-            kb_word = "knowledge base" if DEMO_MODE else "official documents"
             no_info_msg = (
-                "అందుబాటులో ఉన్న సమాచార నివేదికలలో దీనికి సంబంధించిన పూర్తి వివరాలు లభించలేదు."
+                "క్షమించండి, నేను హ్యాకథాన్ డెమో కోసం మాత్రమే డిజైన్ చేయబడ్డాను. ప్రస్తుతం నేను **ఆధార్, డ్రైవింగ్ లైసెన్స్, పెన్షన్, వాహనాల సీజ్ మరియు పాస్పోర్ట్** కి సంబంధించిన ప్రశ్నలకు మాత్రమే సమాధానం ఇవ్వగలను."
                 if is_telugu else
-                f"I could not find sufficient information in the available {kb_word} to answer this question."
+                "I am currently in a demo mode for the hackathon. I am programmed to assist strictly with specific queries related to **Aadhaar, Driving Licences, Pensions, Vehicle Seizures, and Passports**. Please ask questions related to these topics only."
             )
             return {
                 "answer": no_info_msg,
@@ -905,9 +919,9 @@ class ChatbotService:
         if not docs:
             is_telugu = QueryProcessor.is_telugu_script(question)
             return (
-                "అందుబాటులో ఉన్న సమాచార నివేదికలలో దీనికి సంబంధించిన పూర్తి వివరాలు లభించలేదు."
+                "క్షమించండి, నేను హ్యాకథాన్ డెమో కోసం మాత్రమే డిజైన్ చేయబడ్డాను. ప్రస్తుతం నేను **ఆధార్, డ్రైవింగ్ లైసెన్స్, పెన్షన్, వాహనాల సీజ్ మరియు పాస్పోర్ట్** కి సంబంధించిన ప్రశ్నలకు మాత్రమే సమాధానం ఇవ్వగలను."
                 if is_telugu else
-                f"I could not find sufficient information in the available {kb_word} to answer this question."
+                "I am currently in a demo mode for the hackathon. I am programmed to assist strictly with specific queries related to **Aadhaar, Driving Licences, Pensions, Vehicle Seizures, and Passports**. Please ask questions related to these topics only."
             )
 
         best_doc = docs[0]

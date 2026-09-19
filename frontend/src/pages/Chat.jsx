@@ -6,6 +6,15 @@ import { askChat } from '../services/api';
 
 const LOCAL_STORAGE_KEY = 'citizen_chat_history';
 
+const INITIAL_CHAT_HISTORY = [
+  { id: '1', title: "My Aadhaar card is lost...", text: "My Aadhaar card is lost..." },
+  { id: '2', title: "Vehicle seized by police...", text: "Vehicle seized by police..." },
+  { id: '3', title: "How can I download E-Aadhaar...", text: "How can I download E-Aadhaar..." },
+  { id: '4', title: "What documents required for pension...", text: "What documents required for pension..." },
+  { id: '5', title: "How to apply for driving licence...", text: "How to apply for driving licence..." },
+  { id: '6', title: "PAN card correction procedure...", text: "PAN card correction procedure..." }
+];
+
 export default function ChatPage({ onNavigateToAdmin, onNavigateToLogin }) {
   const [messages, setMessages] = useState(() => {
     try {
@@ -16,6 +25,7 @@ export default function ChatPage({ onNavigateToAdmin, onNavigateToLogin }) {
       return [];
     }
   });
+  const [chatHistory, setChatHistory] = useState(INITIAL_CHAT_HISTORY);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
@@ -30,6 +40,9 @@ export default function ChatPage({ onNavigateToAdmin, onNavigateToLogin }) {
 
   const handleSendMessage = async (questionText) => {
     if (!questionText.trim()) return;
+
+    // Append new question to top of chatHistory list
+    setChatHistory((prev) => [{ id: Date.now(), title: questionText, text: questionText }, ...prev]);
 
     const userMsg = {
       sender: 'user',
@@ -105,6 +118,8 @@ export default function ChatPage({ onNavigateToAdmin, onNavigateToLogin }) {
       {/* Main Area: Sidebar + Chat Content */}
       <div className="flex-1 flex overflow-hidden bg-[#0b1329]">
         <Sidebar
+          chatHistory={chatHistory}
+          setChatHistory={setChatHistory}
           onSelectHistoryItem={(itemText) => handleSendMessage(itemText)}
           onClearChat={handleNewChat}
         />
